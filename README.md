@@ -41,7 +41,7 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 ## EXPERIENCE:
 Job Shadow Experience
 
-MEDITECH (Virtual)
+## MEDITECH (Virtual)
 
 March 8th, 2021
 
@@ -54,7 +54,7 @@ March 8th, 2021
 
 Job Shadow Experience
 
-Enercon (Virtual)
+## Enercon (Virtual)
 
 March 9th, 2021
 
@@ -69,7 +69,7 @@ March 9th, 2021
 
 Internship Experience
 
-IBM Accelerate (Virtual)
+## IBM Accelerate (Virtual)
 
 June 2021 – July 2021
 
@@ -79,7 +79,7 @@ June 2021 – July 2021
 
 Internship Experience
 
-Stem Away (Virtual)
+## Stem Away (Virtual)
 
 June 2021 – July 2021
 
