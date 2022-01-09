@@ -50,9 +50,9 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 •	Designed and launched ad campaigns for this website.
 
-![alt text](https://user-images.githubusercontent.com/69270601/148670262-dc8e5781-55e6-4dfd-bdf6-38653af23475.png =250x250 "Logo Title Text 1")
+![alt text](https://user-images.githubusercontent.com/69270601/148670262-dc8e5781-55e6-4dfd-bdf6-38653af23475.png "Logo Title Text 1")
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+<img src="https://user-images.githubusercontent.com/69270601/148670262-dc8e5781-55e6-4dfd-bdf6-38653af23475.png " width="100" height="100">
 
 
 
