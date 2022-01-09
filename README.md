@@ -18,17 +18,24 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 ## SKILLS💻:
 
 •	C++
+
 •	Pytorch
+
 •	Microsoft Excel, PowerPoint & Word	
 •	C#
+
 •	HTML 5
+
 •	WordPress
+
 •	React
 
 ## CERTIFICATIONS:
 
 •	Microsoft Technology Associate Certification in HTML5 Application Development Fundamentals
+
 •	Google Analytics Certification 
+
 •	Android Developer Certified
 
 
