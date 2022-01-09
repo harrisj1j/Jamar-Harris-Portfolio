@@ -67,7 +67,7 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 • Give users the option to delete list items
 
-<img src="https://user-images.githubusercontent.com/69270601/148689405-50f148ee-0110-4f1c-9993-38c5e3e50987.png" width="240" height="240">
+<img src="https://user-images.githubusercontent.com/69270601/148689405-50f148ee-0110-4f1c-9993-38c5e3e50987.png" width="700" height="400">
 
 
 ## User Search Application
@@ -102,7 +102,7 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 • Deploy your web app using AWS or Heroku or some other service.
 
-<img src="https://user-images.githubusercontent.com/69270601/148694682-f1ae73c0-17ec-4abd-bffd-94be680f287c.png" width="240" height="240">
+<img src="https://user-images.githubusercontent.com/69270601/148694682-f1ae73c0-17ec-4abd-bffd-94be680f287c.png" width="700" height="400">
 
 
 ## Loki Title Sequence Recreation
@@ -114,6 +114,6 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 * All key frames cycle through fonts chosen by the aforementioned c++ program which ran nine consecutive times, one for each letter
 
-<img src="https://user-images.githubusercontent.com/69270601/148697154-5666f609-c4a2-4b18-a7f8-bef8d81be4e4.gif" width="240" height="240">
+<img src="https://user-images.githubusercontent.com/69270601/148697154-5666f609-c4a2-4b18-a7f8-bef8d81be4e4.gif" width="700" height="400">
 
 
