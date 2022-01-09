@@ -52,3 +52,19 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 ![alt text](https://user-images.githubusercontent.com/69270601/148670262-dc8e5781-55e6-4dfd-bdf6-38653af23475.png "Logo Title Text 1")
 
+
+
+## To-do list application
+
+• Take in and display to do list items
+
+• Allow users to mark items as complete
+
+• Provide the date and time of item addition
+
+• Validate there are no duplicated items (i.e. do not accept duplicate inputs)
+
+• Give users the option to update list items
+
+• Give users the option to delete list items
+
