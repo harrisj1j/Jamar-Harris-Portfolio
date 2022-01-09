@@ -38,6 +38,41 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 •	Android Developer Certified
 
+## EXPERIENCE:
+Job Shadow Experience
+MEDITECH (Virtual)
+March 8th, 2021
+
+•	Shadowed Diane Winslow to gain insight into the operations of her team and the many software’s used by MEDITECH.
+
+•	Observed a presentation focused on highlighting the day-to-day operations of MEDITECH and individual staff members.
+
+•	Observed MEDITECH software and operations.
+
+Job Shadow Experience
+Enercon (Virtual)
+March 9th, 2021
+•	Shadowed Kyle Freedman to gain insight into the operations of his team and services ENERCON provides such as Power Transmission & Distribution, Substation Design, and Storm Response.
+
+•	Observed the procedure of power delivery between power plants and consumers and the processes that occur for this to happen.
+
+•	Observed documentation surrounding plants.
+
+
+Internship Experience
+IBM Accelerate (Virtual)
+June 2021 – July 2021
+•	Participating in a program that helps to identify and equip students with the knowledge and readiness they need to be prepared for future consideration of opportunities within the technology industry.
+
+
+Internship Experience
+Stem Away (Virtual)
+June 2021 – July 2021
+•	Participating in a Machine Learning Project where we are tasked with building a forum post classifier and basic recommender, that will help classify/recommend forum posts to help the user find similar posts or figure out what category a post belongs to.
+
+
+
+
 
 # Projects:
 
