@@ -68,3 +68,4 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 • Give users the option to delete list items
 
+![alt-text](https://user-images.githubusercontent.com/69270601/148687901-633b71b8-b0e9-47f3-8d96-f514592711cb.png "Logo Title Text 2")
