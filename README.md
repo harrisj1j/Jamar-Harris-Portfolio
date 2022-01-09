@@ -104,5 +104,4 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 ![alt-text](https://user-images.githubusercontent.com/69270601/148694682-f1ae73c0-17ec-4abd-bffd-94be680f287c.png "Logo Title Text 2")
 
-![alt-text](https://user-images.githubusercontent.com/69270601/148694720-d6d97343-1d04-4143-8a6a-8900303a256a.png "Logo Title Text 2")
 
