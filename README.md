@@ -8,8 +8,10 @@ Education:
 
 AUGUST 2019 – PRESENT
 BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
+
 •	Expected to graduate in May 2023.
-•	Currently enrolled & taking MATH 1190
+
+
 •	Current GPA: 3.63
 
 SKILLS💻:
