@@ -42,7 +42,7 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 ## Projects:
 
 ## [Zodiac Art](https://art-of-zodiac.com/) (Personal Development & Live Website)
-June 2021 – Present
+
 
 •	Developed a personal art portfolio website meant to showcase my artwork and pieces.
 
