@@ -4,13 +4,13 @@ Hi! I'm Jamar. i am a current student at Kennesaw State University studying Soft
 
 I have some experience utilizing different programming languages such as C++, C#, and HTML 5. HTML specifically was utilized during the early development stages of my website.
 
-Education:
+
+##Education:
 
 AUGUST 2019 – PRESENT
 BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 •	Expected to graduate in May 2023.
-
 
 •	Current GPA: 3.63
 
