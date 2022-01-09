@@ -48,4 +48,5 @@ June 2021 – Present
 •	Published a live website and interacted with different ecommerce interfaces for the sole purpose of incorporating new means of purchasing artwork.
 •	Designed and launched ad campaigns for this website.
 
-![alt text][https://user-images.githubusercontent.com/69270601/148670190-b4a6fc05-2e16-4283-a16a-3d79b43f3689.png]
+![alt text] [logo]
+[logo]: https://user-images.githubusercontent.com/69270601/148670190-b4a6fc05-2e16-4283-a16a-3d79b43f3689.png
