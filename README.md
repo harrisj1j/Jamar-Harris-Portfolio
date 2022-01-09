@@ -52,7 +52,6 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 ![alt text](https://user-images.githubusercontent.com/69270601/148670262-dc8e5781-55e6-4dfd-bdf6-38653af23475.png "Logo Title Text 1")
 
-<img src="https://user-images.githubusercontent.com/69270601/148670262-dc8e5781-55e6-4dfd-bdf6-38653af23475.png" width="240" height="240">
 
 ## To-do list application
 
@@ -68,7 +67,7 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 • Give users the option to delete list items
 
-![alt-text](https://user-images.githubusercontent.com/69270601/148689405-50f148ee-0110-4f1c-9993-38c5e3e50987.png "Logo Title Text 2")
+<img src="https://user-images.githubusercontent.com/69270601/148689405-50f148ee-0110-4f1c-9993-38c5e3e50987.png" width="240" height="240">
 
 
 ## User Search Application
@@ -82,8 +81,7 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 • Search for users by city
 
 • Sort users by city
-
-![alt-text](https://user-images.githubusercontent.com/69270601/148693961-fbf0c141-906b-4ab5-a891-c7a89bb57521.png "Logo Title Text 2")
+<img src="https://user-images.githubusercontent.com/69270601/148693961-fbf0c141-906b-4ab5-a891-c7a89bb57521.png" width="240" height="240">
 
 
 ## Recommendation and Classification Systems using Natural Language Processing
@@ -102,7 +100,7 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 • Deploy your web app using AWS or Heroku or some other service.
 
-![alt-text](https://user-images.githubusercontent.com/69270601/148694682-f1ae73c0-17ec-4abd-bffd-94be680f287c.png "Logo Title Text 2")
+<img src="https://user-images.githubusercontent.com/69270601/148694682-f1ae73c0-17ec-4abd-bffd-94be680f287c.png" width="240" height="240">
 
 
 ## Loki Title Sequence Recreation
@@ -114,9 +112,6 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 * All key frames cycle through fonts chosen by the aforementioned c++ program which ran nine consecutive times, one for each letter
 
+<img src="https://user-images.githubusercontent.com/69270601/148697154-5666f609-c4a2-4b18-a7f8-bef8d81be4e4.gif" width="240" height="240">
 
-![alt-text](https://user-images.githubusercontent.com/69270601/148696928-076529d4-6c0f-4b44-8e5f-3a04f915d924.png "Logo Title Text 2")
-
-
-![alt-text](https://user-images.githubusercontent.com/69270601/148697154-5666f609-c4a2-4b18-a7f8-bef8d81be4e4.gif "Logo Title Text 2")
 
