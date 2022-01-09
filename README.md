@@ -14,7 +14,7 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 •	Current GPA: 3.63
 
-SKILLS💻:
+## SKILLS💻:
 
 •	C++
 •	Pytorch
@@ -24,14 +24,14 @@ SKILLS💻:
 •	WordPress
 •	React
 
-CERTIFICATIONS:
+## CERTIFICATIONS:
 
 •	Microsoft Technology Associate Certification in HTML5 Application Development Fundamentals
 •	Google Analytics Certification 
 •	Android Developer Certified
 
 
-Projects:
+## Projects:
 
 Zodiac Art (Personal Development & Live Website)
 June 2021 – Present
