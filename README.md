@@ -105,3 +105,18 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 ![alt-text](https://user-images.githubusercontent.com/69270601/148694682-f1ae73c0-17ec-4abd-bffd-94be680f287c.png "Logo Title Text 2")
 
 
+## Loki Title Sequence Recreation
+• Program was created to cycle through random numbers associated with fonts scrapped from Dafont.com to be used in a short animation
+
+• Web scraping tool Octoparse was utilized to scrape data from Dafont.com 
+
+• Fonts from Dafont were then stored in a excel file and associated with a number 1-20 and randomly generated with a c++ program to be utilized for every letter in a key frame
+
+* All key frames cycle through fonts chosen by the aforementioned c++ program which ran nine consecutive times, one for each letter
+
+
+![alt-text](https://user-images.githubusercontent.com/69270601/148696928-076529d4-6c0f-4b44-8e5f-3a04f915d924.png "Logo Title Text 2")
+
+
+![alt-text](https://user-images.githubusercontent.com/69270601/148697154-5666f609-c4a2-4b18-a7f8-bef8d81be4e4.gif "Logo Title Text 2")
+
