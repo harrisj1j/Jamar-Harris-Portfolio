@@ -69,3 +69,40 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 • Give users the option to delete list items
 
 ![alt-text](https://user-images.githubusercontent.com/69270601/148689405-50f148ee-0110-4f1c-9993-38c5e3e50987.png "Logo Title Text 2")
+
+
+## User Search Application
+
+• Display user information (at least name, email, phone, and city)
+
+• Remove entries from list (do not try to delete from databse, data will refresh on pull)
+
+• Search for users by name
+
+• Search for users by city
+
+• Sort users by city
+
+![alt-text](https://user-images.githubusercontent.com/69270601/148693961-fbf0c141-906b-4ab5-a891-c7a89bb57521.png "Logo Title Text 2")
+
+
+## Recommendation and Classification Systems using Natural Language Processing
+
+• Collect the data: We will pick the Discourse Hub Community forums as our main data resource. You can either scrap one or several forums.
+
+• Explore your data (EDA): After gathering our data, we will analyze it to understand the data and get familiar with it before feeding it to ML models.
+
+• Calculate similarity between posts and recommend: We will vectorize our data, and compute the similarity matrix then use it to recommend posts similar to a certain post.
+
+•  Train ML classifiers and classify a post into its appropriate category.
+
+•  Compare and choose the best approach: evaluate the results of step 3 and 4 and choose the best one.
+
+•  Build a simple web app using Flask or Streamlit.
+
+• Deploy your web app using AWS or Heroku or some other service.
+
+![alt-text](https://user-images.githubusercontent.com/69270601/148694682-f1ae73c0-17ec-4abd-bffd-94be680f287c.png "Logo Title Text 2")
+
+![alt-text](https://user-images.githubusercontent.com/69270601/148694720-d6d97343-1d04-4143-8a6a-8900303a256a.png "Logo Title Text 2")
+
