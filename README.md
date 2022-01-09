@@ -81,7 +81,9 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 • Search for users by city
 
 • Sort users by city
-<img src="https://user-images.githubusercontent.com/69270601/148693961-fbf0c141-906b-4ab5-a891-c7a89bb57521.png" width="240" height="400">
+
+
+<img src="https://user-images.githubusercontent.com/69270601/148693961-fbf0c141-906b-4ab5-a891-c7a89bb57521.png" width="700" height="400">
 
 
 ## Recommendation and Classification Systems using Natural Language Processing
