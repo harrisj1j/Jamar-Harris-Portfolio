@@ -39,7 +39,7 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 •	Android Developer Certified
 
 ## EXPERIENCE:
-Job Shadow Experience
+# Job Shadow Experience
 
 ## MEDITECH (Virtual)
 
@@ -52,7 +52,7 @@ March 8th, 2021
 •	Observed MEDITECH software and operations.
 
 
-Job Shadow Experience
+# Job Shadow Experience
 
 ## Enercon (Virtual)
 
@@ -67,7 +67,7 @@ March 9th, 2021
 •	Observed documentation surrounding plants.
 
 
-Internship Experience
+# Internship Experience
 
 ## IBM Accelerate (Virtual)
 
@@ -77,7 +77,7 @@ June 2021 – July 2021
 
 
 
-Internship Experience
+# Internship Experience
 
 ## Stem Away (Virtual)
 
