@@ -8,6 +8,7 @@ I have some experience utilizing different programming languages such as C++, C#
 ## Education:
 
 AUGUST 2019 – PRESENT
+
 BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 •	Expected to graduate in May 2023.
@@ -33,9 +34,9 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
 ## Projects:
 
-Zodiac Art (Personal Development & Live Website)
+## [Zodiac Art](https://art-of-zodiac.com/) (Personal Development & Live Website)
 June 2021 – Present
 
 •	Developed a personal art portfolio website meant to showcase my artwork and pieces.
-•	Published a live website (https://art-of-zodiac.com/) and interacted with different ecommerce interfaces for the sole purpose of incorporating new means of purchasing artwork.
+•	Published a live website and interacted with different ecommerce interfaces for the sole purpose of incorporating new means of purchasing artwork.
 •	Designed and launched ad campaigns for this website.
