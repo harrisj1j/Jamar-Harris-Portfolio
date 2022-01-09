@@ -39,7 +39,7 @@ BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 •	Android Developer Certified
 
 
- Projects:
+# Projects:
 
 ## [Zodiac Art](https://art-of-zodiac.com/) (Personal Development & Live Website)
 
