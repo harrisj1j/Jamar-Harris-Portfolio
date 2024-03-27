@@ -7,13 +7,30 @@ I have some experience utilizing different programming languages such as C++, C#
 
 ## Education:
 
-AUGUST 2019 – PRESENT
+AUGUST 2019 – May 2023
 
 BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, KENNESAW STATE UNIVERSITY
 
-•	Expected to graduate in May 2023.
+•	Graduated May 23'
 
-•	Current GPA: 3.63
+•	Current GPA: 3.5
+
+
+
+January 2024 – May 2024
+
+MASTER'S OF SCIENCE IN CYBERSECURITY, GEORGIA INSTITUTE OF TECHNOLOGY
+
+
+MAY 2024 – DEC 2025
+
+MASTER'S OF SCIENCE IN CYBERSECURITY, GEORGIA INSTITUTE OF TECHNOLOGY
+
+•	Estimated Graduation December 24'
+
+
+
+
 
 ## SKILLS💻:
 
@@ -165,5 +182,22 @@ June 2021 – July 2021
 * All key frames cycle through fonts chosen by the aforementioned c++ program which ran nine consecutive times, one for each letter
 
 <img src="https://user-images.githubusercontent.com/69270601/148697154-5666f609-c4a2-4b18-a7f8-bef8d81be4e4.gif" width="700" height="400">
+
+
+Jam's Accounting January 2023 - May 2023
+Web-Based Accounting Project Developer (School Project)
+• Collaborated with a development team to create a versatile web-based accounting software, proficient in functions like
+chart of accounts, transaction journaling, and financial statement generation, accessible across multiple devices. Leveraged
+React and Firebase to build the application and integrated robust security measures including password recovery, resulting
+in enhanced data protection and accessibility for users across various platforms.
+Prescription of Step Counts for Targeted Changes in Body Composition & Cardiometabolic-
+ Risk in Overweight Adults
+January 2023 - May 2023
+Website Developer (Capstone Project)
+•
+Collaborated closely with a project mentor to develop a web interface using React and Marvel App for prescribing step
+counts, ensuring accurate data input, manipulation, and response output. Additionally, contributed to creating an intuitive
+interface, potentially extending to a mobile app, which resulted in the successful achievement of three milestones within
+a 12-week timeframe, facilitating progress and usability enhancements for targeted users.
 
 
