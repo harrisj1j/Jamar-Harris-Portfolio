@@ -184,18 +184,19 @@ June 2021 – July 2021
 <img src="https://user-images.githubusercontent.com/69270601/148697154-5666f609-c4a2-4b18-a7f8-bef8d81be4e4.gif" width="700" height="400">
 
 
-Jam's Accounting January 2023 - May 2023
-Web-Based Accounting Project Developer (School Project)
+
+## Web-Based Accounting Project Developer (School Project)
+## Jam's Accounting January 2023 - May 2023
 • Collaborated with a development team to create a versatile web-based accounting software, proficient in functions like
 chart of accounts, transaction journaling, and financial statement generation, accessible across multiple devices. Leveraged
 React and Firebase to build the application and integrated robust security measures including password recovery, resulting
 in enhanced data protection and accessibility for users across various platforms.
-Prescription of Step Counts for Targeted Changes in Body Composition & Cardiometabolic-
- Risk in Overweight Adults
+
+ 
+## Prescription of Step Counts for Targeted Changes in Body Composition & Cardiometabolic- Risk in Overweight Adults
+## Website Developer (Capstone Project)
 January 2023 - May 2023
-Website Developer (Capstone Project)
-•
-Collaborated closely with a project mentor to develop a web interface using React and Marvel App for prescribing step
+• Collaborated closely with a project mentor to develop a web interface using React and Marvel App for prescribing step
 counts, ensuring accurate data input, manipulation, and response output. Additionally, contributed to creating an intuitive
 interface, potentially extending to a mobile app, which resulted in the successful achievement of three milestones within
 a 12-week timeframe, facilitating progress and usability enhancements for targeted users.
